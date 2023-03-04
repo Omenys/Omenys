@@ -2,7 +2,7 @@
 **Dev Name:** Omenys <br />
 Game Development Student <br />
 **Current Languages Studying:** Python, R, C++ <br />
-**Game Engines**: Unreal Engine 5
+**Game Engines**: Unreal Engine 5 <br />
 **Interests:** Games, Data Analytics, Puzzles <br />
 **Fun Fact:** The name 'Omenys' came from a play on my real name. <br />
 
