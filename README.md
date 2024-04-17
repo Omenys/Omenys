@@ -1,7 +1,7 @@
 ## Welcome! ##
 + **Name:** Raven
 + Game Development Student
-+ **Languages: ** C#, C++, Java, Python
++ **Languages:** C#, C++, Java, Python
 + **Game Engines**: Unreal Engine 5, Unity
 + **Favorite Genres:** RPG/MMO, Puzzler, FPS, Souls-like
 + **Fun Fact:** The handle 'Omenys' came from a play on my real name.
